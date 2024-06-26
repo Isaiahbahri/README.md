@@ -56,8 +56,4 @@ My journey in the Military has led me to develop a passion for cybersecurity, an
 
 ## Projects
 - Detection Lab
-- SOC Automation Project"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+- SOC Automation Project"
