@@ -21,7 +21,7 @@ My journey in the Military has led me to develop a passion for cybersecurity, an
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
